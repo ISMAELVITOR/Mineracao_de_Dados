@@ -24,7 +24,7 @@ ETAPA 2 — Preparação dos Dados
 ✅ Normalização de valores textuais.
 ✅ Tratamento de atributos categóricos.
 ✅ Discretização de atributos numéricos.
-⬜ Criação de novas variáveis.
+✅ Criação de novas variáveis.
 
 Etapa 3 — Análise exploratória (EDA)
 Estatísticas descritivas.
