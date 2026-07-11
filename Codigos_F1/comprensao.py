@@ -1,5 +1,6 @@
 import duckdb
 import pandas as pd
+from pathlib import Path
 
 # ==========================================================
 # ETAPA 1 - COMPREENSÃO DA BASE
@@ -9,13 +10,16 @@ import pandas as pd
 # "F1" ou "MOVIE"
 BANCO = "MOVIE"
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+DB_DIR = BASE_DIR / "BasesDeDados"
+
 # ==========================================================
 # CONFIGURAÇÃO DOS BANCOS
 # ==========================================================
 
 if BANCO == "F1":
 
-    con = duckdb.connect("f1.duckdb")
+    con = duckdb.connect(str(DB_DIR / "f1.duckdb"))
 
     tabelas = [
         "circuits",
@@ -37,7 +41,7 @@ if BANCO == "F1":
 
 else:
 
-    con = duckdb.connect("movie_recomm.duckdb")
+    con = duckdb.connect(str(DB_DIR / "movie_recomm.duckdb"))
 
     tabelas = [
         "all_casts",
@@ -134,6 +138,6 @@ for coluna in sorted(rel["Coluna"].unique()):
 
         for tabela in tabelas_rel:
 
-            print(f"   └── {tabela}")
+            print(f"   -> {tabela}")
 
 con.close()

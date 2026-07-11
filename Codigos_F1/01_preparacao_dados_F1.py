@@ -1,12 +1,16 @@
 import duckdb
 import pandas as pd
+from pathlib import Path
 
 # ==========================================================
 # ETAPA 2 - PREPARAÇÃO DOS DADOS
 # Base: Fórmula 1
 # ==========================================================
 
-con = duckdb.connect("BasesDeDados/f1.duckdb")
+BASE_DIR = Path(__file__).resolve().parent.parent
+DB_DIR = BASE_DIR / "BasesDeDados"
+
+con = duckdb.connect(str(DB_DIR / "f1.duckdb"))
 
 # ==========================================================
 # Tabelas e atributos utilizados
@@ -315,12 +319,12 @@ print("RESUMO")
 print("=" * 70)
 
 print("""
-✔ Valores ausentes analisados.
-✔ Valores nulos preservados por representarem eventos reais da corrida.
-✔ Nenhum registro duplicado encontrado.
-✔ Padronização realizada: United States -> USA.
-✔ Variáveis categóricas preparadas.
-✔ Atributos numéricos discretizados.
+- Valores ausentes analisados.
+- Valores nulos preservados por representarem eventos reais da corrida.
+- Nenhum registro duplicado encontrado.
+- Padronizacao realizada: United States -> USA.
+- Variaveis categoricas preparadas.
+- Atributos numericos discretizados.
 """)
 
 # ==========================================================

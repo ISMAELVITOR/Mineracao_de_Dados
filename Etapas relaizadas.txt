@@ -64,3 +64,6 @@ Avaliar confiança.
 Explicar o padrão encontrado.
 Identificar possíveis vieses.
 Discutir se a regra realmente é útil.
+
+python 01_preparacao_dados_F1.py
+python 02_GRAFICOS_F1.py
