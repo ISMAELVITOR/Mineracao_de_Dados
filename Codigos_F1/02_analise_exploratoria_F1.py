@@ -14,7 +14,7 @@ from matplotlib.ticker import MaxNLocator
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DB_DIR = BASE_DIR / "BasesDeDados"
-GRAFICOS_DIR = Path(__file__).resolve().parent / "graficos"
+GRAFICOS_DIR = BASE_DIR / "graficos"
 
 con = duckdb.connect(str(DB_DIR / "f1.duckdb"))
 
