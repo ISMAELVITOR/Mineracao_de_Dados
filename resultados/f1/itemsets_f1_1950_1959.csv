@@ -1,0 +1,49 @@
+suporte,itemsets
+0.48427024239298605,Abandono
+0.02888086642599278,Equipe_BRM
+0.1820526044352759,Equipe_Ferrari
+0.021144920061887573,Equipe_Mercedes
+0.7493553378029912,Equipe_Outras
+0.443527591542032,Grid_Back
+0.2753996905621454,Grid_Front
+0.2810727178958226,Grid_Middle
+0.27952552862300156,Nao_Pontuou
+0.0959257349149046,Podio
+0.09541000515729757,Pontuou
+0.04486848891181021,Venceu
+0.06395048994326973,Abandono | Equipe_Ferrari
+0.3847343991748324,Abandono | Equipe_Outras
+0.24548736462093862,Abandono | Grid_Back
+0.10933470861268695,Abandono | Grid_Front
+0.1294481691593605,Abandono | Grid_Middle
+0.03403816400206292,Equipe_Ferrari | Grid_Back
+0.1000515729757607,Equipe_Ferrari | Grid_Front
+0.0479628674574523,Equipe_Ferrari | Grid_Middle
+0.03558535327488396,Equipe_Ferrari | Nao_Pontuou
+0.04486848891181021,Equipe_Ferrari | Podio
+0.0221763795771016,Equipe_Ferrari | Pontuou
+0.3935018050541516,Equipe_Outras | Grid_Back
+0.15317173800928313,Equipe_Outras | Grid_Front
+0.20268179473955647,Equipe_Outras | Grid_Middle
+0.23259412068076327,Equipe_Outras | Nao_Pontuou
+0.04538421866941723,Equipe_Outras | Podio
+0.062403300670448685,Equipe_Outras | Pontuou
+0.024239298607529654,Equipe_Outras | Venceu
+0.16967509025270758,Grid_Back | Nao_Pontuou
+0.029912325941206807,Grid_Front | Nao_Pontuou
+0.0629190304280557,Grid_Front | Podio
+0.03403816400206292,Grid_Front | Pontuou
+0.039195461578133056,Grid_Front | Venceu
+0.07993811242908716,Grid_Middle | Nao_Pontuou
+0.02527075812274368,Grid_Middle | Podio
+0.042289840123775145,Grid_Middle | Pontuou
+0.030943785456420837,Abandono | Equipe_Ferrari | Grid_Front
+0.21660649819494585,Abandono | Equipe_Outras | Grid_Back
+0.06910778751933987,Abandono | Equipe_Outras | Grid_Front
+0.09902011346054668,Abandono | Equipe_Outras | Grid_Middle
+0.03403816400206292,Equipe_Ferrari | Grid_Front | Podio
+0.1521402784940691,Equipe_Outras | Grid_Back | Nao_Pontuou
+0.021660649819494584,Equipe_Outras | Grid_Front | Nao_Pontuou
+0.02527075812274368,Equipe_Outras | Grid_Front | Podio
+0.058793192367199584,Equipe_Outras | Grid_Middle | Nao_Pontuou
+0.027333677153171736,Equipe_Outras | Grid_Middle | Pontuou

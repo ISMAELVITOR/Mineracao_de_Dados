@@ -1,0 +1,62 @@
+suporte,itemsets
+0.37470960506288553,Abandono
+0.022190178642954417,Equipe_Arrows
+0.021108707842666025,Equipe_BRM
+0.020788272049987983,Equipe_Benetton
+0.024593447088039733,Equipe_Brabham
+0.09621084675158215,Equipe_Ferrari
+0.0231915404950733,Equipe_Ligier
+0.07550268364976367,Equipe_McLaren
+0.025394536569734838,Equipe_Mercedes
+0.025674917888328125,Equipe_Minardi
+0.37951614195305616,Equipe_Outras
+0.030481454778498757,Equipe_Red Bull
+0.03132259873427862,Equipe_Renault
+0.032524232956821275,Equipe_Sauber
+0.03292477769766883,Equipe_Team Lotus
+0.0213089802130898,Equipe_Toro Rosso
+0.033886085075702954,Equipe_Tyrrell
+0.06552911960265961,Equipe_Williams
+0.4605062885524313,Grid_Back
+0.26964671953857244,Grid_Front
+0.26984699190899625,Grid_Middle
+0.302291115917648,Nao_Pontuou
+0.09020267563886886,Podio
+0.1879355924056717,Pontuou
+0.0448610109749259,Venceu
+0.026275734999599454,Abandono | Equipe_Ferrari
+0.02054794520547945,Abandono | Equipe_McLaren
+0.16121925819113994,Abandono | Equipe_Outras
+0.2023552030761836,Abandono | Grid_Back
+0.07586317391652647,Abandono | Grid_Front
+0.09649122807017543,Abandono | Grid_Middle
+0.0616037811423536,Equipe_Ferrari | Grid_Front
+0.02351197628775134,Equipe_Ferrari | Grid_Middle
+0.02343186733958183,Equipe_Ferrari | Podio
+0.023872466554514138,Equipe_Ferrari | Pontuou
+0.035648481935432186,Equipe_McLaren | Grid_Front
+0.024152847873107425,Equipe_McLaren | Grid_Middle
+0.020828326524072738,Equipe_McLaren | Pontuou
+0.02419290234719218,Equipe_Minardi | Grid_Back
+0.22891131939437634,Equipe_Outras | Grid_Back
+0.050028038131859326,Equipe_Outras | Grid_Front
+0.10057678442682047,Equipe_Outras | Grid_Middle
+0.14139229351918609,Equipe_Outras | Nao_Pontuou
+0.05643675398542017,Equipe_Outras | Pontuou
+0.021108707842666025,Equipe_Tyrrell | Grid_Back
+0.02259072338380197,Equipe_Williams | Grid_Back
+0.02723704237763358,Equipe_Williams | Grid_Front
+0.020708163101818472,Equipe_Williams | Nao_Pontuou
+0.20900424577425297,Grid_Back | Nao_Pontuou
+0.04357926780421373,Grid_Back | Pontuou
+0.023031322598734277,Grid_Front | Nao_Pontuou
+0.06777217015140591,Grid_Front | Podio
+0.06148361772009933,Grid_Front | Pontuou
+0.041496435151806454,Grid_Front | Venceu
+0.07025554754466073,Grid_Middle | Nao_Pontuou
+0.08287270688135864,Grid_Middle | Pontuou
+0.104582231835296,Abandono | Equipe_Outras | Grid_Back
+0.03809180485460226,Abandono | Equipe_Outras | Grid_Middle
+0.10598413842826243,Equipe_Outras | Grid_Back | Nao_Pontuou
+0.02935992950412561,Equipe_Outras | Grid_Middle | Nao_Pontuou
+0.027677641592565888,Equipe_Outras | Grid_Middle | Pontuou
