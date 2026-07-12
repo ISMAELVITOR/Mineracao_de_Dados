@@ -18,7 +18,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 DB_DIR = BASE_DIR / "BasesDeDados"
 
-RESULTADOS_DIR = BASE_DIR / "resultados"
+RESULTADOS_DIR = Path(__file__).resolve().parent / "resultados"
 
 RESULTADOS_DIR.mkdir(exist_ok=True)
 
@@ -420,18 +420,6 @@ else:
 
     )
 
-    top10_regras_relatorio.to_csv(
-
-        RESULTADOS_DIR / "top10_regras_2014_2024.csv",
-
-        index=False,
-
-        sep=";",
-
-        decimal=","
-
-    )
-
     print("\n")
     print("=" * 70)
     print("RESUMO")
@@ -446,7 +434,5 @@ else:
     print("✔ itemsets_frequentes_2014_2024.csv")
 
     print("✔ regras_associacao_2014_2024.csv")
-
-    print("✔ top10_regras_2014_2024.csv")
 
 con.close()
