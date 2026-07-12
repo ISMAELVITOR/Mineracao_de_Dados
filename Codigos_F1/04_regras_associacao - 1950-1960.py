@@ -249,29 +249,13 @@ print(resultado)
 
 print("\n")
 
-SUPORTE_MINIMO = float(
+SUPORTE_MINIMO = 0.02
 
-    input(
-
-        "Digite o suporte escolhido: "
-
-    )
-
-)
-
-CONFIANCA_MINIMA = float(
-
-    input(
-
-        "Digite a confiança mínima (ex.: 0.60): "
-
-    )
-
-)
+CONFIANCA_MINIMA = 0.60
 
 print("\n")
 print("=" * 70)
-print("PARÂMETROS ESCOLHIDOS")
+print("PARÂMETROS UTILIZADOS")
 print("=" * 70)
 
 print(f"Suporte mínimo   : {SUPORTE_MINIMO}")
