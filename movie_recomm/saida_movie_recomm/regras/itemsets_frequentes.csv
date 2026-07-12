@@ -1,0 +1,502 @@
+﻿Itemsets;Suporte;Quantidade_itens
+{avaliacao_media};0,6401753905179501;1
+{popularidade_media};0,49849273773636615;1
+{genero_drama};0,4376541518224171;1
+{genero_comedia};0,4053165250753631;1
+{popularidade_baixa};0,3781858043299534;1
+{avaliacao_media, popularidade_media};0,340093176212661;2
+{periodo_2000_2009};0,3137845985201425;1
+{avaliacao_media, genero_drama};0,30748150178130995;2
+{periodo_1990_1999};0,3044669772540422;1
+{genero_acao};0,2543162510276788;1
+{avaliacao_media, genero_comedia};0,2515757741847081;2
+{genero_suspense};0,24390243902439024;1
+{avaliacao_baixa};0,23924362839134009;1
+{genero_drama, popularidade_media};0,21841600438476294;2
+{avaliacao_media, periodo_2000_2009};0,20882433543436557;2
+{avaliacao_media, popularidade_baixa};0,20772814469717732;2
+{genero_comedia, popularidade_media};0,20005480953685942;2
+{genero_aventura};0,18525623458481777;1
+{avaliacao_media, periodo_1990_1999};0,18333790079473827;2
+{genero_romance};0,17950123321457934;1
+{periodo_1970_1989};0,17840504247739106;1
+{genero_drama, popularidade_baixa};0,1737462318443409;2
+{avaliacao_media, genero_suspense};0,16059194299808166;2
+{avaliacao_media, genero_drama, popularidade_media};0,15922170457659632;3
+{avaliacao_media, genero_acao};0,1586736092080022;2
+{periodo_2000_2009, popularidade_media};0,15648122773362566;2
+{genero_comedia, popularidade_baixa};0,15565908468073444;2
+{periodo_1990_1999, popularidade_media};0,15483694162784326;2
+{genero_drama, periodo_2000_2009};0,1468895587832283;2
+{genero_crime};0,14305289120306933;1
+{genero_drama, periodo_1990_1999};0,1381200328857221;2
+{avaliacao_media, genero_comedia, popularidade_media};0,13729788983283092;3
+{genero_acao, popularidade_media};0,13537955604275143;2
+{genero_comedia, periodo_1990_1999};0,13373526993696902;2
+{genero_ficcao_cientifica};0,1331871745683749;1
+{genero_suspense, popularidade_media};0,13099479309399836;2
+{genero_comedia, periodo_2000_2009};0,1271581255138394;2
+{periodo_2010_2018};0,12688407782954234;1
+{avaliacao_baixa, popularidade_baixa};0,12578788709235406;2
+{avaliacao_media, genero_aventura};0,1238695533022746;2
+{popularidade_alta};0,12332145793368046;1
+{avaliacao_baixa, genero_comedia};0,1230474102493834;2
+{avaliacao_media, genero_romance};0,1222252671964922;2
+{avaliacao_alta};0,12058098109070978;1
+{periodo_2000_2009, popularidade_baixa};0,12003288572211565;2
+{avaliacao_media, genero_drama, popularidade_baixa};0,11564812277336256;3
+{avaliacao_media, genero_drama, periodo_2000_2009};0,11263359824609483;3
+{avaliacao_media, periodo_1970_1989};0,11235955056179775;2
+{avaliacao_media, periodo_2000_2009, popularidade_media};0,11098931214031242;3
+{genero_drama, genero_suspense};0,1085228829816388;2
+{genero_acao, genero_suspense};0,10660454919155933;2
+{avaliacao_baixa, popularidade_media};0,10633050150726227;2
+{genero_drama, genero_romance};0,10194573855850918;2
+{genero_fantasia};0,10139764318991505;1
+{genero_comedia, genero_romance};0,10112359550561797;2
+{genero_aventura, popularidade_media};0,10084954782132091;2
+{genero_comedia, genero_drama};0,10002740476842971;2
+{genero_acao, genero_aventura};0,09975335708413263;2
+{avaliacao_media, genero_drama, periodo_1990_1999};0,09865716634694437;3
+{avaliacao_media, periodo_1990_1999, popularidade_media};0,09701288024116196;3
+{periodo_1990_1999, popularidade_baixa};0,0967388325568649;2
+{avaliacao_baixa, periodo_1990_1999};0,0959166895039737;2
+{avaliacao_media, genero_crime};0,09509454645108249;2
+{genero_romance, popularidade_media};0,09427240339819129;2
+{avaliacao_media, popularidade_alta};0,09235406960811181;2
+{avaliacao_media, periodo_2010_2018};0,09098383118662648;2
+{genero_suspense, periodo_2000_2009};0,0898876404494382;2
+{periodo_1970_1989, popularidade_media};0,08879144971224993;2
+{genero_infantil};0,08714716360646753;1
+{avaliacao_media, genero_acao, popularidade_media};0,08632502055357633;3
+{avaliacao_media, genero_suspense, popularidade_media};0,08550287750068512;3
+{avaliacao_media, genero_ficcao_cientifica};0,08385859139490272;2
+{genero_terror};0,08221430528912031;1
+{genero_acao, periodo_2000_2009};0,08194025760482324;2
+{avaliacao_baixa, periodo_2000_2009};0,08029597149904083;2
+{genero_suspense, popularidade_baixa};0,0797478761304467;2
+{avaliacao_alta, genero_drama};0,07947382844614963;2
+{avaliacao_media, genero_comedia, periodo_2000_2009};0,07892573307755549;3
+{avaliacao_baixa, genero_acao};0,07755549465607016;2
+{avaliacao_media, genero_drama, genero_suspense};0,07673335160317896;3
+{genero_suspense, periodo_1990_1999};0,07618525623458482;2
+{genero_acao, genero_ficcao_cientifica};0,07618525623458482;2
+{genero_crime, genero_suspense};0,07618525623458482;2
+{avaliacao_media, genero_comedia, periodo_1990_1999};0,07591120855028775;3
+{avaliacao_media, genero_comedia, popularidade_baixa};0,07563716086599068;3
+{avaliacao_media, genero_comedia, genero_drama};0,07481501781309947;3
+{genero_comedia, periodo_1970_1989};0,07426692244450535;2
+{genero_acao, popularidade_baixa};0,07399287476020827;2
+{genero_crime, genero_drama};0,07371882707591121;2
+{genero_drama, periodo_1990_1999, popularidade_media};0,07317073170731707;3
+{genero_ficcao_cientifica, popularidade_media};0,07289668402302;2
+{avaliacao_media, genero_drama, genero_romance};0,07262263633872294;3
+{genero_drama, periodo_2000_2009, popularidade_media};0,07234858865442587;3
+{avaliacao_media, genero_acao, genero_suspense};0,0720745409701288;3
+{avaliacao_media, genero_aventura, popularidade_media};0,0712523979172376;3
+{genero_drama, periodo_1970_1989};0,07097835023294054;2
+{genero_misterio};0,07070430254864346;1
+{genero_crime, popularidade_media};0,06988215949575226;2
+{periodo_1970_1989, popularidade_baixa};0,06851192107426693;2
+{avaliacao_baixa, genero_comedia, popularidade_baixa};0,06796382570567279;3
+{avaliacao_media, genero_comedia, genero_romance};0,06796382570567279;3
+{avaliacao_media, genero_romance, popularidade_media};0,06741573033707865;3
+{avaliacao_media, periodo_2000_2009, popularidade_baixa};0,06714168265278159;3
+{genero_acao, periodo_1990_1999};0,06604549191559331;2
+{genero_comedia, periodo_2000_2009, popularidade_media};0,06577144423129624;3
+{genero_acao, genero_drama};0,0652233488627021;2
+{genero_romance, periodo_1990_1999};0,0652233488627021;2
+{avaliacao_media, genero_fantasia};0,0644012058098109;2
+{avaliacao_media, genero_acao, genero_aventura};0,0644012058098109;3
+{genero_comedia, periodo_1990_1999, popularidade_media};0,06412715812551384;3
+{periodo_2010_2018, popularidade_media};0,0627569197040285;2
+{genero_animacao};0,062208824335434364;1
+{genero_romance, popularidade_baixa};0,0619347766511373;2
+{genero_romance, periodo_2000_2009};0,06138668128254316;2
+{genero_drama, periodo_2000_2009, popularidade_baixa};0,06029049054535489;3
+{avaliacao_media, genero_suspense, periodo_2000_2009};0,06029049054535489;3
+{avaliacao_baixa, genero_suspense};0,059468347492463686;2
+{avaliacao_media, genero_drama, periodo_2000_2009, popularidade_media};0,05919429980816662;4
+{periodo_2010_2018, popularidade_baixa};0,05919429980816662;2
+{avaliacao_media, periodo_1970_1989, popularidade_media};0,05892025212386955;3
+{genero_acao, genero_comedia};0,05892025212386955;2
+{genero_acao, genero_suspense, popularidade_media};0,05864620443957248;3
+{genero_acao, genero_crime};0,056727870649493015;2
+{genero_aventura, periodo_2000_2009};0,056453822965195945;2
+{genero_aventura, genero_comedia};0,056453822965195945;2
+{genero_drama, genero_romance, popularidade_media};0,05590572759660181;3
+{genero_acao, periodo_2010_2018};0,05535763222800767;2
+{genero_acao, genero_aventura, popularidade_media};0,0550835845437106;3
+{genero_drama, genero_suspense, popularidade_media};0,0550835845437106;3
+{avaliacao_media, genero_infantil};0,0550835845437106;2
+{genero_crime, periodo_2000_2009};0,0542614414908194;2
+{periodo_1950_1969};0,05398739380652234;1
+{avaliacao_media, genero_drama, periodo_1990_1999, popularidade_media};0,05371334612222527;4
+{genero_fantasia, popularidade_media};0,0534392984379282;2
+{genero_comedia, genero_romance, popularidade_media};0,0534392984379282;3
+{periodo_1990_1999, popularidade_alta};0,052891203069334064;2
+{avaliacao_media, genero_crime, genero_drama};0,05234310770073993;3
+{avaliacao_media, genero_crime, genero_suspense};0,05234310770073993;3
+{avaliacao_alta, popularidade_media};0,05206906001644286;2
+{genero_aventura, genero_fantasia};0,05179501233214579;2
+{avaliacao_media, periodo_2010_2018, popularidade_media};0,05179501233214579;3
+{genero_comedia, genero_drama, popularidade_media};0,05152096464784873;3
+{avaliacao_media, genero_acao, periodo_2000_2009};0,05124691696355166;3
+{genero_aventura, genero_ficcao_cientifica};0,05097286927925459;2
+{avaliacao_baixa, genero_comedia, periodo_1990_1999};0,050698821594957526;3
+{avaliacao_baixa, genero_drama};0,050698821594957526;2
+{avaliacao_media, genero_crime, popularidade_media};0,050698821594957526;3
+{avaliacao_baixa, genero_comedia, popularidade_media};0,050150726226363386;3
+{avaliacao_media, genero_suspense, popularidade_baixa};0,050150726226363386;3
+{genero_comedia, popularidade_alta};0,04960263085776925;2
+{genero_crime, popularidade_baixa};0,04932858317347218;2
+{genero_comedia, periodo_2000_2009, popularidade_baixa};0,04878048780487805;3
+{genero_comedia, genero_infantil};0,04850644012058098;2
+{genero_aventura, popularidade_baixa};0,04823239243628391;2
+{avaliacao_media, genero_comedia, periodo_1970_1989};0,04795834475198685;3
+{avaliacao_media, genero_acao, genero_ficcao_cientifica};0,04768429706768978;3
+{avaliacao_media, genero_ficcao_cientifica, popularidade_media};0,04768429706768978;3
+{avaliacao_media, genero_animacao};0,04768429706768978;2
+{genero_comedia, periodo_2010_2018};0,04768429706768978;2
+{genero_ficcao_cientifica, genero_suspense};0,04741024938339271;2
+{genero_misterio, genero_suspense};0,04741024938339271;2
+{genero_suspense, periodo_2000_2009, popularidade_media};0,04741024938339271;3
+{avaliacao_baixa, periodo_1990_1999, popularidade_media};0,047136201699095645;3
+{avaliacao_media, genero_drama, periodo_1970_1989};0,04631405864620444;3
+{genero_drama, genero_suspense, periodo_2000_2009};0,04631405864620444;3
+{avaliacao_media, genero_misterio};0,04631405864620444;2
+{avaliacao_media, genero_romance, periodo_1990_1999};0,04604001096190737;3
+{avaliacao_media, periodo_1990_1999, popularidade_baixa};0,04604001096190737;3
+{genero_acao, periodo_2000_2009, popularidade_media};0,04549191559331324;3
+{genero_drama, popularidade_alta};0,04549191559331324;2
+{genero_drama, periodo_1990_1999, popularidade_baixa};0,04549191559331324;3
+{genero_infantil, popularidade_media};0,04521786790901617;2
+{avaliacao_media, genero_suspense, periodo_1990_1999};0,04521786790901617;3
+{genero_acao, popularidade_alta};0,0449438202247191;2
+{genero_comedia, periodo_1990_1999, popularidade_baixa};0,0449438202247191;3
+{avaliacao_baixa, genero_aventura};0,0449438202247191;2
+{avaliacao_media, genero_comedia, periodo_2000_2009, popularidade_media};0,0449438202247191;4
+{genero_suspense, genero_terror};0,04466977254042203;2
+{avaliacao_alta, popularidade_baixa};0,04466977254042203;2
+{genero_aventura, genero_infantil};0,04466977254042203;2
+{avaliacao_baixa, periodo_1990_1999, popularidade_baixa};0,043299534118936694;3
+{genero_suspense, periodo_1990_1999, popularidade_media};0,043025486434639625;3
+{genero_acao, genero_ficcao_cientifica, popularidade_media};0,043025486434639625;3
+{avaliacao_baixa, genero_comedia, periodo_2000_2009};0,04275143875034256;3
+{genero_comedia, genero_crime};0,04275143875034256;2
+{avaliacao_media, genero_acao, genero_drama};0,04275143875034256;3
+{genero_guerra};0,04275143875034256;1
+{genero_drama, periodo_2010_2018};0,04275143875034256;2
+{avaliacao_media, genero_romance, periodo_2000_2009};0,04220334338174842;3
+{avaliacao_media, genero_terror};0,04220334338174842;2
+{genero_drama, genero_suspense, popularidade_baixa};0,04220334338174842;3
+{genero_crime, periodo_1990_1999};0,04192929569745136;2
+{avaliacao_media, genero_drama, periodo_2000_2009, popularidade_baixa};0,04192929569745136;4
+{genero_aventura, genero_drama};0,04165524801315429;2
+{avaliacao_baixa, periodo_2000_2009, popularidade_baixa};0,04165524801315429;3
+{avaliacao_media, genero_drama, genero_romance, popularidade_media};0,04165524801315429;4
+{avaliacao_baixa, genero_acao, popularidade_media};0,041107152644560156;3
+{genero_animacao, genero_infantil};0,040833104960263086;2
+{avaliacao_media, genero_comedia, periodo_1990_1999, popularidade_media};0,040833104960263086;4
+{genero_crime, genero_drama, genero_suspense};0,040559057275966016;3
+{genero_acao, periodo_1970_1989};0,040559057275966016;2
+{avaliacao_media, periodo_1990_1999, popularidade_alta};0,040285009591668954;3
+{genero_aventura, periodo_1990_1999};0,040285009591668954;2
+{avaliacao_media, genero_comedia, genero_drama, popularidade_media};0,040285009591668954;4
+{genero_ficcao_cientifica, periodo_2000_2009};0,040285009591668954;2
+{avaliacao_baixa, genero_ficcao_cientifica};0,040010961907371884;2
+{avaliacao_media, genero_aventura, genero_comedia};0,040010961907371884;3
+{genero_musical};0,039736914223074814;1
+{genero_acao, genero_suspense, periodo_2000_2009};0,039736914223074814;3
+{avaliacao_media, genero_acao, periodo_2010_2018};0,039736914223074814;3
+{genero_comedia, genero_fantasia};0,039736914223074814;2
+{avaliacao_media, genero_drama, genero_suspense, popularidade_media};0,039462866538777744;4
+{genero_terror, popularidade_media};0,039462866538777744;2
+{avaliacao_media, genero_comedia, popularidade_alta};0,03864072348588654;3
+{avaliacao_media, periodo_1970_1989, popularidade_baixa};0,03864072348588654;3
+{genero_comedia, genero_drama, popularidade_baixa};0,03864072348588654;3
+{genero_crime, genero_suspense, popularidade_media};0,03836667580158948;3
+{avaliacao_media, genero_comedia, genero_romance, popularidade_media};0,03836667580158948;4
+{genero_comedia, periodo_1970_1989, popularidade_media};0,03836667580158948;3
+{genero_comedia, genero_drama, genero_romance};0,03809262811729241;3
+{avaliacao_media, genero_acao, genero_suspense, popularidade_media};0,03809262811729241;4
+{genero_crime, genero_drama, popularidade_media};0,03809262811729241;3
+{genero_aventura, periodo_1970_1989};0,03781858043299534;2
+{avaliacao_media, genero_acao, popularidade_baixa};0,03781858043299534;3
+{avaliacao_media, genero_crime, periodo_2000_2009};0,03781858043299534;3
+{avaliacao_baixa, periodo_1970_1989};0,037544532748698276;2
+{genero_drama, genero_misterio};0,037544532748698276;2
+{genero_drama, genero_romance, periodo_2000_2009};0,037544532748698276;3
+{avaliacao_media, genero_acao, genero_crime};0,037270485064401206;3
+{avaliacao_baixa, periodo_2000_2009, popularidade_media};0,037270485064401206;3
+{periodo_2000_2009, popularidade_alta};0,037270485064401206;2
+{genero_misterio, popularidade_media};0,037270485064401206;2
+{avaliacao_alta, genero_drama, popularidade_media};0,037270485064401206;3
+{genero_drama, genero_romance, periodo_1990_1999};0,037270485064401206;3
+{avaliacao_media, genero_aventura, periodo_2000_2009};0,037270485064401206;3
+{genero_aventura, genero_suspense};0,036996437380104136;2
+{genero_comedia, genero_romance, periodo_2000_2009};0,036996437380104136;3
+{genero_acao, genero_aventura, genero_ficcao_cientifica};0,03672238969580707;3
+{avaliacao_media, genero_acao, genero_comedia};0,03672238969580707;3
+{genero_aventura, periodo_2010_2018};0,03644834201151;2
+{genero_comedia, genero_drama, periodo_1990_1999};0,03644834201151;3
+{genero_drama, periodo_1970_1989, popularidade_media};0,03644834201151;3
+{avaliacao_baixa, genero_romance};0,03644834201151;2
+{avaliacao_media, genero_fantasia, popularidade_media};0,03617429432721293;3
+{genero_aventura, popularidade_alta};0,03617429432721293;2
+{genero_drama, genero_romance, popularidade_baixa};0,03590024664291587;3
+{avaliacao_media, genero_acao, genero_aventura, popularidade_media};0,03590024664291587;4
+{genero_acao, genero_crime, genero_suspense};0,03590024664291587;3
+{avaliacao_media, periodo_2010_2018, popularidade_baixa};0,03590024664291587;3
+{avaliacao_media, genero_romance, popularidade_baixa};0,03590024664291587;3
+{genero_terror, popularidade_baixa};0,0356261989586188;2
+{avaliacao_baixa, genero_terror};0,03535215127432173;2
+{genero_ficcao_cientifica, popularidade_baixa};0,03507810359002467;2
+{genero_acao, genero_drama, popularidade_media};0,03507810359002467;3
+{genero_comedia, genero_drama, periodo_2000_2009};0,0348040559057276;3
+{genero_comedia, genero_romance, periodo_1990_1999};0,0348040559057276;3
+{avaliacao_media, genero_comedia, periodo_2010_2018};0,0348040559057276;3
+{avaliacao_media, genero_drama, genero_suspense, periodo_2000_2009};0,03453000822143053;4
+{avaliacao_media, genero_acao, popularidade_alta};0,03453000822143053;3
+{avaliacao_baixa, genero_suspense, popularidade_media};0,03453000822143053;3
+{avaliacao_media, genero_acao, periodo_1990_1999};0,034255960537133465;3
+{genero_fantasia, periodo_2000_2009};0,034255960537133465;2
+{genero_romance, periodo_2000_2009, popularidade_media};0,033707865168539325;3
+{genero_animacao, popularidade_media};0,033707865168539325;2
+{avaliacao_media, genero_aventura, genero_ficcao_cientifica};0,033707865168539325;3
+{genero_drama, genero_guerra};0,033707865168539325;2
+{avaliacao_media, periodo_1950_1969};0,033707865168539325;2
+{genero_suspense, periodo_1970_1989};0,033707865168539325;2
+{genero_imax};0,03315976979994519;1
+{genero_suspense, popularidade_alta};0,03315976979994519;2
+{genero_acao, periodo_1990_1999, popularidade_media};0,03315976979994519;3
+{genero_animacao, genero_aventura};0,03315976979994519;2
+{avaliacao_baixa, genero_acao, popularidade_baixa};0,03288572211564812;3
+{genero_comedia, genero_romance, popularidade_baixa};0,03288572211564812;3
+{avaliacao_media, genero_drama, popularidade_alta};0,03261167443135105;3
+{genero_romance, periodo_1990_1999, popularidade_media};0,03261167443135105;3
+{avaliacao_media, genero_aventura, genero_fantasia};0,03261167443135105;3
+{avaliacao_media, genero_musical};0,03233762674705399;2
+{avaliacao_media, genero_suspense, periodo_2000_2009, popularidade_media};0,03233762674705399;4
+{avaliacao_media, genero_misterio, genero_suspense};0,03206357906275692;3
+{avaliacao_media, genero_animacao, genero_infantil};0,03206357906275692;3
+{genero_suspense, periodo_2000_2009, popularidade_baixa};0,03206357906275692;3
+{avaliacao_media, genero_ficcao_cientifica, genero_suspense};0,03206357906275692;3
+{genero_animacao, genero_comedia};0,03178953137845985;2
+{genero_drama, genero_suspense, periodo_1990_1999};0,03178953137845985;3
+{genero_acao, genero_aventura, genero_suspense};0,03151548369416279;3
+{genero_fantasia, genero_infantil};0,03151548369416279;2
+{avaliacao_media, genero_aventura, genero_infantil};0,031241436009865717;3
+{genero_suspense, periodo_2010_2018};0,031241436009865717;2
+{genero_acao, genero_suspense, periodo_1990_1999};0,031241436009865717;3
+{genero_crime, genero_suspense, periodo_2000_2009};0,031241436009865717;3
+{genero_acao, periodo_2010_2018, popularidade_media};0,03096738832556865;3
+{genero_crime, genero_drama, periodo_2000_2009};0,03096738832556865;3
+{avaliacao_media, genero_infantil, popularidade_media};0,03096738832556865;3
+{avaliacao_alta, genero_comedia};0,03069334064127158;2
+{avaliacao_media, periodo_2000_2009, popularidade_alta};0,03069334064127158;3
+{avaliacao_media, genero_drama, periodo_2010_2018};0,03069334064127158;3
+{genero_acao, genero_fantasia};0,03069334064127158;2
+{genero_acao, genero_ficcao_cientifica, genero_suspense};0,030419292956974514;3
+{genero_acao, genero_drama, genero_suspense};0,030145245272677444;3
+{avaliacao_media, genero_drama, periodo_1990_1999, popularidade_baixa};0,030145245272677444;4
+{genero_ficcao_cientifica, periodo_2010_2018};0,030145245272677444;2
+{genero_fantasia, popularidade_baixa};0,029871197588380378;2
+{genero_infantil, periodo_1990_1999};0,029871197588380378;2
+{genero_aventura, genero_comedia, popularidade_media};0,029871197588380378;3
+{avaliacao_media, genero_drama, genero_suspense, popularidade_baixa};0,02959714990408331;4
+{genero_acao, genero_aventura, periodo_2000_2009};0,02959714990408331;3
+{genero_acao, genero_comedia, popularidade_media};0,02959714990408331;3
+{avaliacao_alta, genero_drama, popularidade_baixa};0,02959714990408331;3
+{avaliacao_media, genero_crime, popularidade_baixa};0,02932310221978624;3
+{avaliacao_baixa, genero_acao, genero_suspense};0,029049054535489175;3
+{genero_infantil, popularidade_baixa};0,029049054535489175;2
+{genero_ficcao_cientifica, periodo_1990_1999};0,02877500685119211;2
+{genero_aventura, periodo_2000_2009, popularidade_media};0,02877500685119211;3
+{avaliacao_baixa, genero_acao, genero_aventura};0,02877500685119211;3
+{avaliacao_media, genero_crime, genero_drama, genero_suspense};0,02850095916689504;4
+{avaliacao_baixa, genero_acao, periodo_1990_1999};0,02850095916689504;3
+{avaliacao_media, genero_comedia, genero_infantil};0,02850095916689504;3
+{genero_drama, periodo_1970_1989, popularidade_baixa};0,02850095916689504;3
+{avaliacao_baixa, genero_drama, popularidade_baixa};0,02850095916689504;3
+{genero_drama, genero_ficcao_cientifica};0,02850095916689504;2
+{avaliacao_alta, periodo_1970_1989};0,02850095916689504;2
+{genero_terror, periodo_2000_2009};0,02850095916689504;2
+{avaliacao_media, genero_aventura, genero_suspense};0,028226911482597972;3
+{avaliacao_media, genero_acao, periodo_2000_2009, popularidade_media};0,028226911482597972;4
+{avaliacao_media, genero_crime, genero_drama, popularidade_media};0,028226911482597972;4
+{avaliacao_media, genero_comedia, genero_drama, periodo_2000_2009};0,028226911482597972;4
+{avaliacao_media, genero_comedia, genero_drama, genero_romance};0,028226911482597972;4
+{genero_aventura, genero_ficcao_cientifica, popularidade_media};0,027952863798300906;3
+{genero_ficcao_cientifica, periodo_1970_1989};0,027952863798300906;2
+{avaliacao_media, genero_aventura, popularidade_alta};0,027678816114003836;3
+{avaliacao_baixa, genero_infantil};0,027678816114003836;2
+{avaliacao_baixa, genero_fantasia};0,027678816114003836;2
+{genero_acao, genero_suspense, popularidade_baixa};0,027678816114003836;3
+{avaliacao_baixa, genero_acao, periodo_2000_2009};0,02740476842970677;3
+{avaliacao_media, genero_crime, genero_suspense, popularidade_media};0,02740476842970677;4
+{avaliacao_media, genero_aventura, periodo_2010_2018};0,02740476842970677;3
+{avaliacao_media, genero_guerra};0,02740476842970677;2
+{avaliacao_media, genero_aventura, genero_drama};0,0271307207454097;3
+{genero_ficcao_cientifica, genero_suspense, popularidade_media};0,0271307207454097;3
+{avaliacao_media, genero_drama, genero_romance, periodo_1990_1999};0,0271307207454097;4
+{avaliacao_media, genero_drama, genero_romance, periodo_2000_2009};0,0271307207454097;4
+{genero_acao, genero_crime, popularidade_media};0,0271307207454097;3
+{avaliacao_media, genero_comedia, genero_drama, periodo_1990_1999};0,026856673061112633;4
+{avaliacao_media, genero_animacao, popularidade_media};0,026856673061112633;3
+{genero_drama, periodo_1950_1969};0,026856673061112633;2
+{avaliacao_media, genero_comedia, genero_drama, popularidade_baixa};0,026582625376815567;4
+{genero_aventura, genero_fantasia, popularidade_media};0,026582625376815567;3
+{periodo_1950_1969, popularidade_media};0,026308577692518497;2
+{avaliacao_media, genero_acao, periodo_1970_1989};0,026308577692518497;3
+{genero_comedia, periodo_1970_1989, popularidade_baixa};0,026308577692518497;3
+{avaliacao_media, genero_acao, genero_ficcao_cientifica, popularidade_media};0,026308577692518497;4
+{avaliacao_baixa, genero_comedia, periodo_1990_1999, popularidade_baixa};0,026308577692518497;4
+{avaliacao_media, genero_comedia, genero_crime};0,02603453000822143;3
+{genero_crime, genero_suspense, popularidade_baixa};0,02603453000822143;3
+{avaliacao_media, genero_comedia, periodo_1970_1989, popularidade_media};0,02603453000822143;4
+{avaliacao_media, genero_acao, periodo_2010_2018, popularidade_media};0,02603453000822143;4
+{avaliacao_media, genero_acao, genero_suspense, periodo_2000_2009};0,02603453000822143;4
+{avaliacao_media, genero_imax};0,02603453000822143;2
+{avaliacao_media, genero_drama, genero_misterio};0,025760482323924364;3
+{avaliacao_media, genero_comedia, genero_fantasia};0,025760482323924364;3
+{avaliacao_baixa, genero_suspense, periodo_1990_1999};0,025760482323924364;3
+{avaliacao_alta, periodo_1990_1999};0,025212386955330228;2
+{genero_animacao, genero_aventura, genero_infantil};0,025212386955330228;3
+{genero_comedia, genero_ficcao_cientifica};0,025212386955330228;2
+{genero_ficcao_cientifica, popularidade_alta};0,025212386955330228;2
+{avaliacao_media, genero_animacao, genero_aventura};0,025212386955330228;3
+{avaliacao_media, genero_misterio, popularidade_media};0,025212386955330228;3
+{genero_misterio, genero_suspense, popularidade_media};0,025212386955330228;3
+{avaliacao_media, genero_comedia, genero_romance, periodo_2000_2009};0,025212386955330228;4
+{avaliacao_media, genero_suspense, periodo_1970_1989};0,024938339271033158;3
+{avaliacao_media, genero_aventura, periodo_1970_1989};0,024938339271033158;3
+{avaliacao_media, genero_aventura, popularidade_baixa};0,024938339271033158;3
+{avaliacao_media, genero_ficcao_cientifica, periodo_2000_2009};0,024938339271033158;3
+{avaliacao_baixa, genero_acao, genero_ficcao_cientifica};0,024938339271033158;3
+{avaliacao_media, genero_animacao, genero_comedia};0,024938339271033158;3
+{genero_comedia, genero_infantil, popularidade_media};0,024938339271033158;3
+{avaliacao_media, genero_suspense, popularidade_alta};0,024938339271033158;3
+{avaliacao_media, genero_crime, periodo_1990_1999};0,024938339271033158;3
+{genero_crime, periodo_2000_2009, popularidade_media};0,024938339271033158;3
+{avaliacao_alta, periodo_2000_2009};0,02466429158673609;2
+{genero_crime, genero_drama, popularidade_baixa};0,02466429158673609;3
+{genero_comedia, periodo_1990_1999, popularidade_alta};0,02466429158673609;3
+{genero_acao, genero_ficcao_cientifica, periodo_2000_2009};0,02466429158673609;3
+{avaliacao_baixa, genero_comedia, genero_romance};0,02466429158673609;3
+{avaliacao_media, genero_romance, periodo_2000_2009, popularidade_media};0,02466429158673609;4
+{avaliacao_media, genero_acao, genero_crime, genero_suspense};0,02466429158673609;4
+{genero_drama, genero_misterio, genero_suspense};0,024390243902439025;3
+{avaliacao_media, genero_acao, genero_aventura, genero_ficcao_cientifica};0,024390243902439025;4
+{avaliacao_media, genero_aventura, periodo_1990_1999};0,024390243902439025;3
+{genero_aventura, genero_infantil, popularidade_media};0,024390243902439025;3
+{avaliacao_baixa, genero_crime};0,024390243902439025;2
+{genero_comedia, genero_suspense};0,024116196218141955;2
+{avaliacao_media, genero_comedia, genero_romance, periodo_1990_1999};0,024116196218141955;4
+{genero_suspense, genero_terror, popularidade_media};0,024116196218141955;3
+{genero_comedia, periodo_2010_2018, popularidade_baixa};0,024116196218141955;3
+{genero_animacao, periodo_2000_2009};0,024116196218141955;2
+{genero_fantasia, periodo_1990_1999};0,02384214853384489;2
+{avaliacao_media, genero_romance, periodo_1990_1999, popularidade_media};0,02384214853384489;4
+{avaliacao_media, genero_drama, genero_romance, popularidade_baixa};0,02384214853384489;4
+{avaliacao_alta, genero_suspense};0,02384214853384489;2
+{avaliacao_alta, popularidade_alta};0,02384214853384489;2
+{avaliacao_media, genero_suspense, genero_terror};0,02384214853384489;3
+{avaliacao_media, genero_crime, genero_drama, periodo_2000_2009};0,02384214853384489;4
+{genero_misterio, periodo_2000_2009};0,02384214853384489;2
+{genero_crime, popularidade_alta};0,02384214853384489;2
+{genero_acao, genero_suspense, periodo_2000_2009, popularidade_media};0,02384214853384489;4
+{genero_romance, periodo_1970_1989};0,02384214853384489;2
+{genero_acao, genero_drama, periodo_2000_2009};0,02384214853384489;3
+{avaliacao_media, genero_comedia, periodo_2000_2009, popularidade_baixa};0,02384214853384489;4
+{genero_aventura, genero_drama, popularidade_media};0,023568100849547823;3
+{avaliacao_media, genero_acao, genero_aventura, genero_suspense};0,023568100849547823;4
+{avaliacao_media, genero_acao, genero_drama, popularidade_media};0,023568100849547823;4
+{genero_crime, genero_drama, periodo_1990_1999};0,023568100849547823;3
+{genero_acao, genero_aventura, periodo_2010_2018};0,023568100849547823;3
+{avaliacao_alta, genero_crime};0,023568100849547823;2
+{genero_crime, genero_suspense, periodo_1990_1999};0,023568100849547823;3
+{avaliacao_media, genero_drama, periodo_1970_1989, popularidade_media};0,023568100849547823;4
+{avaliacao_baixa, genero_suspense, periodo_2000_2009};0,023568100849547823;3
+{genero_guerra, popularidade_media};0,023294053165250753;2
+{genero_infantil, periodo_2000_2009};0,023294053165250753;2
+{genero_romance, popularidade_alta};0,023294053165250753;2
+{avaliacao_media, genero_suspense, periodo_1990_1999, popularidade_media};0,023294053165250753;4
+{avaliacao_baixa, periodo_2010_2018};0,023294053165250753;2
+{avaliacao_baixa, genero_suspense, popularidade_baixa};0,023294053165250753;3
+{genero_drama, genero_fantasia};0,023294053165250753;2
+{genero_comedia, genero_drama, genero_romance, popularidade_media};0,023020005480953686;4
+{avaliacao_media, genero_crime, genero_suspense, periodo_2000_2009};0,023020005480953686;4
+{genero_misterio, popularidade_baixa};0,023020005480953686;2
+{genero_aventura, periodo_2010_2018, popularidade_media};0,023020005480953686;3
+{avaliacao_media, genero_suspense, periodo_2010_2018};0,023020005480953686;3
+{genero_crime, genero_misterio};0,023020005480953686;2
+{avaliacao_baixa, genero_aventura, popularidade_media};0,02274595779665662;3
+{genero_acao, genero_aventura, genero_fantasia};0,02274595779665662;3
+{avaliacao_baixa, genero_comedia, periodo_2000_2009, popularidade_baixa};0,02274595779665662;4
+{genero_drama, genero_suspense, periodo_2000_2009, popularidade_media};0,02247191011235955;4
+{periodo_1950_1969, popularidade_baixa};0,02247191011235955;2
+{genero_acao, genero_aventura, popularidade_baixa};0,02247191011235955;3
+{periodo_antes_1950};0,02247191011235955;1
+{avaliacao_media, genero_drama, genero_guerra};0,02247191011235955;3
+{genero_acao, genero_ficcao_cientifica, periodo_2010_2018};0,02247191011235955;3
+{avaliacao_media, genero_ficcao_cientifica, periodo_2010_2018};0,02247191011235955;3
+{genero_animacao, genero_infantil, popularidade_media};0,02247191011235955;3
+{genero_comedia, periodo_2010_2018, popularidade_media};0,02247191011235955;3
+{genero_drama, periodo_2010_2018, popularidade_baixa};0,02247191011235955;3
+{genero_acao, genero_crime, periodo_2000_2009};0,02247191011235955;3
+{genero_acao, genero_aventura, popularidade_alta};0,022197862428062484;3
+{genero_terror, periodo_1990_1999};0,022197862428062484;2
+{avaliacao_media, genero_terror, popularidade_media};0,022197862428062484;3
+{genero_animacao, genero_fantasia};0,021923814743765414;2
+{avaliacao_media, genero_fantasia, genero_infantil};0,021923814743765414;3
+{genero_acao, periodo_2010_2018, popularidade_baixa};0,021923814743765414;3
+{avaliacao_media, genero_aventura, genero_comedia, popularidade_media};0,021923814743765414;4
+{genero_imax, periodo_2010_2018};0,021923814743765414;2
+{avaliacao_baixa, genero_drama, popularidade_media};0,021923814743765414;3
+{genero_acao, periodo_2000_2009, popularidade_baixa};0,021649767059468347;3
+{genero_aventura, genero_comedia, periodo_2000_2009};0,021649767059468347;3
+{genero_crime, periodo_1990_1999, popularidade_media};0,021649767059468347;3
+{genero_comedia, genero_crime, popularidade_media};0,021649767059468347;3
+{genero_misterio, periodo_1990_1999};0,021649767059468347;2
+{avaliacao_baixa, genero_ficcao_cientifica, popularidade_media};0,02137571937517128;3
+{genero_aventura, periodo_1970_1989, popularidade_media};0,02110167169087421;3
+{genero_crime, periodo_2000_2009, popularidade_baixa};0,02110167169087421;3
+{periodo_1970_1989, popularidade_alta};0,02110167169087421;2
+{genero_crime, genero_drama, genero_suspense, popularidade_media};0,02110167169087421;4
+{genero_romance, periodo_2000_2009, popularidade_baixa};0,02110167169087421;3
+{genero_comedia, genero_fantasia, popularidade_media};0,02110167169087421;3
+{avaliacao_baixa, genero_drama, periodo_1990_1999};0,02110167169087421;3
+{avaliacao_baixa, genero_comedia, periodo_1990_1999, popularidade_media};0,020827624006577145;4
+{avaliacao_media, genero_acao, genero_drama, genero_suspense};0,020827624006577145;4
+{genero_acao, genero_drama, popularidade_baixa};0,020827624006577145;3
+{avaliacao_baixa, periodo_1970_1989, popularidade_baixa};0,020827624006577145;3
+{genero_acao, genero_imax};0,020827624006577145;2
+{genero_animacao, genero_comedia, genero_infantil};0,020827624006577145;3
+{avaliacao_alta, genero_romance};0,020827624006577145;2
+{genero_ficcao_cientifica, periodo_2000_2009, popularidade_media};0,020827624006577145;3
+{genero_terror, periodo_1970_1989};0,020827624006577145;2
+{genero_ficcao_cientifica, genero_terror};0,020553576322280078;2
+{avaliacao_media, genero_drama, genero_suspense, periodo_1990_1999};0,020553576322280078;4
+{avaliacao_media, genero_fantasia, periodo_2000_2009};0,020553576322280078;3
+{genero_acao, genero_aventura, genero_comedia};0,020553576322280078;3
+{genero_aventura, genero_comedia, genero_infantil};0,020553576322280078;3
+{genero_aventura, genero_suspense, popularidade_media};0,020553576322280078;3
+{genero_comedia, genero_romance, periodo_2000_2009, popularidade_media};0,020553576322280078;4
+{genero_drama, genero_romance, periodo_2000_2009, popularidade_media};0,020553576322280078;4
+{genero_fantasia, genero_romance};0,020553576322280078;2
+{genero_comedia, genero_musical};0,020279528637983008;2
+{genero_acao, genero_suspense, popularidade_alta};0,020279528637983008;3
+{genero_drama, genero_romance, periodo_1990_1999, popularidade_media};0,020279528637983008;4
+{avaliacao_media, genero_acao, genero_ficcao_cientifica, genero_suspense};0,020279528637983008;4
+{genero_drama, genero_suspense, periodo_2000_2009, popularidade_baixa};0,020279528637983008;4
+{genero_acao, genero_comedia, periodo_2000_2009};0,020279528637983008;3
+{avaliacao_baixa, genero_acao, genero_comedia};0,020279528637983008;3
+{genero_romance, periodo_1990_1999, popularidade_baixa};0,020279528637983008;3
+{genero_acao, genero_crime, genero_drama};0,020005480953685942;3
+{genero_aventura, periodo_1990_1999, popularidade_media};0,020005480953685942;3
+{genero_acao, genero_aventura, periodo_1990_1999};0,020005480953685942;3
+{genero_acao, genero_aventura, periodo_1970_1989};0,020005480953685942;3
+{genero_crime, periodo_1970_1989};0,020005480953685942;2
+{genero_acao, genero_aventura, genero_ficcao_cientifica, popularidade_media};0,020005480953685942;4
+{genero_ficcao_cientifica, periodo_2010_2018, popularidade_media};0,020005480953685942;3

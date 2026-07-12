@@ -1,0 +1,20 @@
+﻿Genero;Quantidade;Percentual_filmes;Rotulo
+genero_drama;1597;43,76541518224171;Drama
+genero_comedia;1479;40,531652507536315;Comédia
+genero_acao;928;25,43162510276788;Ação
+genero_suspense;890;24,390243902439025;Suspense
+genero_aventura;676;18,525623458481775;Aventura
+genero_romance;655;17,950123321457934;Romance
+genero_crime;522;14,305289120306933;Crime
+genero_ficcao_cientifica;486;13,31871745683749;Ficção científica
+genero_fantasia;370;10,139764318991505;Fantasia
+genero_infantil;318;8,714716360646753;Infantil
+genero_terror;300;8,22143052891203;Terror
+genero_misterio;258;7,0704302548643465;Mistério
+genero_animacao;227;6,220882433543436;Animação
+genero_guerra;156;4,275143875034256;Guerra
+genero_musical;145;3,9736914223074815;Musical
+genero_imax;121;3,315976979994519;IMAX
+genero_faroeste;69;1,890929021649767;Faroeste
+genero_documentario;57;1,5620718004932859;Documentário
+genero_film_noir;34;0,9317621266100301;Film noir
