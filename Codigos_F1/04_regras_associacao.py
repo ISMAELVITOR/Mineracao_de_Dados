@@ -250,9 +250,9 @@ print("=" * 70)
 print("PARÂMETROS UTILIZADOS")
 print("=" * 70)
 
-print(f"Suporte mínimo   : {SUPORTE_MINIMO}")
+print(f"Suporte mínimo   : {SUPORTE_MINIMO:.2f}")
 
-print(f"Confiança mínima : {CONFIANCA_MINIMA}")
+print(f"Confiança mínima : {CONFIANCA_MINIMA:.2f}")
 
 # ==========================================================
 # ITEMSETS FREQUENTES
@@ -347,6 +347,33 @@ else:
     print("\n")
     print(f"Quantidade total de regras: {len(regras)}")
 
+    top10_regras = regras.head(10).copy()
+
+    top10_regras_relatorio = pd.DataFrame({
+
+        "Regra": top10_regras.apply(
+
+            lambda linha: f"{', '.join(sorted(linha['antecedents']))} -> {', '.join(sorted(linha['consequents']))}",
+
+            axis=1
+
+        ),
+
+        "Suporte": top10_regras["support"],
+
+        "Confiança": top10_regras["confidence"],
+
+        "Lift": top10_regras["lift"]
+
+    }).reset_index(drop=True)
+
+    print("\n")
+    print("=" * 70)
+    print("TOP 10 REGRAS PARA O RELATÓRIO")
+    print("=" * 70)
+
+    print(top10_regras_relatorio.to_string(index=False))
+
     # ======================================================
     # EXPORTAÇÃO
     # ======================================================
@@ -359,7 +386,7 @@ else:
 
     regras_exportacao.to_csv(
 
-        RESULTADOS_DIR / "regras_associacao.csv",
+        RESULTADOS_DIR / "regras_associacao_geral.csv",
 
         index=False,
 
@@ -375,7 +402,19 @@ else:
 
     itemsets_exportacao.to_csv(
 
-        RESULTADOS_DIR / "itemsets_frequentes.csv",
+        RESULTADOS_DIR / "itemsets_frequentes_geral.csv",
+
+        index=False,
+
+        sep=";",
+
+        decimal=","
+
+    )
+
+    top10_regras_relatorio.to_csv(
+
+        RESULTADOS_DIR / "top10_regras_geral.csv",
 
         index=False,
 
@@ -387,11 +426,19 @@ else:
 
     print("\n")
     print("=" * 70)
-    print("ARQUIVOS GERADOS")
+    print("RESUMO")
     print("=" * 70)
 
-    print("✔ itemsets_frequentes.csv")
+    print(f"\nQuantidade total de regras: {len(regras)}")
 
-    print("✔ regras_associacao.csv")
+    print(f"\nQuantidade de regras apresentadas no relatório: {len(top10_regras_relatorio)}")
+
+    print("\nArquivos gerados:")
+
+    print("✔ itemsets_frequentes_geral.csv")
+
+    print("✔ regras_associacao_geral.csv")
+
+    print("✔ top10_regras_geral.csv")
 
 con.close()
