@@ -537,3 +537,54 @@ plt.savefig(
 plt.close()
 
 print("\nGráfico 7 gerado.")
+
+
+# ==========================================================
+# 3.8 - Histograma da distribuição da pontuação
+# ==========================================================
+
+consulta = con.sql("""
+
+SELECT
+
+    points
+
+FROM results
+
+WHERE points IS NOT NULL
+
+""").df()
+
+print("\n")
+print("=" * 70)
+print("DISTRIBUIÇÃO DA PONTUAÇÃO")
+print("=" * 70)
+
+print(consulta["points"].describe())
+
+plt.figure(figsize=(10,6))
+
+plt.hist(
+    consulta["points"],
+    bins=15,
+    edgecolor="black"
+)
+
+plt.title("Distribuição da pontuação obtida pelos pilotos")
+
+plt.xlabel("Pontos")
+
+plt.ylabel("Frequência")
+
+plt.grid(axis="y", alpha=0.3)
+
+plt.tight_layout()
+
+plt.savefig(
+    GRAFICOS_DIR / "08_histograma_pontos.png",
+    dpi=300
+)
+
+plt.close()
+
+print("\nGráfico 8 gerado.")
